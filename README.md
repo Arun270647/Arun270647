@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi there! 👋 I'm V. Arun Vignesh  
 
-<!--
-**Arun270647/Arun270647** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💡 Interests  
+- **Frontend Development** – I love building interactive and user-friendly interfaces.  
+- **Software Development** – Passionate about crafting efficient and scalable software solutions.  
+- **UI/UX Design** – Designing visually appealing and seamless user experiences.  
+- **Android Development** – Enthusiastic about creating mobile applications.  
+- **Canva for UI/UX** – Leveraging Canva to design creative and engaging UI/UX concepts.  
 
-Here are some ideas to get you started:
+## 🔥 Skills & Learning  
+I am currently exploring various technologies and frameworks in **frontend, UI/UX, and mobile app development** to enhance my expertise.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎯 Let's Connect  
+Feel free to reach out and collaborate! 🚀  
+[LinkedIn](www.linkedin.com/in/arun-vignesh-v-ab4545328)
