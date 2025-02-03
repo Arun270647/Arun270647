@@ -12,4 +12,4 @@ I am currently exploring various technologies and frameworks in **frontend, UI/U
 
 ## 🎯 Let's Connect  
 Feel free to reach out and collaborate! 🚀  
-[LinkedIn](www.linkedin.com/in/arun-vignesh-v-ab4545328)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arun-vignesh-v-ab4545328/)
