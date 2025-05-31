@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm interested in Web Development especially Frontend Development.<br>I'm currently learning Android Development.<br>I'm also deeply interested in UI/UX as I find it appealing.<br>I'm passionate about crafting efficient and scalable software solutions.<br>I'm an experienced Canva user and am aspiring to be an Editor.
+I'm interested in Web Development especially Full-stack Development.<br>I'm currently learning Android Development.<br>I'm also deeply interested in UI/UX as I find it appealing.<br>I'm passionate about crafting efficient and scalable software solutions.<br>I'm an experienced Canva user and am aspiring to be an Editor.
 
 
 # 💻 Tech Stack:
